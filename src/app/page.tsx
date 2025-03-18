@@ -74,6 +74,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <p>안녕</p>
+          <p>안녕2</p>
           <Image
             aria-hidden
             src="/window.svg"
