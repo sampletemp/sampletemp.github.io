@@ -73,6 +73,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <p>안녕</p>
           <Image
             aria-hidden
             src="/window.svg"
