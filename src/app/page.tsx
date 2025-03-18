@@ -77,6 +77,7 @@ export default function Home() {
           <p>안녕2</p>
           <p>안녕3</p>
           <p>안녕4</p>
+          <p>안녕5</p>
           <Image
             aria-hidden
             src="/window.svg"
